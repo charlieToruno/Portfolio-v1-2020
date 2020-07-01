@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+	background: url(../index.jpg);
+	background-position: top center;
+	height: 3431px;
+	margin: auto;	 
+}
